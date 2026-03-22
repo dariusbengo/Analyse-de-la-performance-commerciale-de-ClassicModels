@@ -1,4 +1,3 @@
-# Analyse-de-la-performance-commerciale-de-ClassicModels
 # Analyse de Performance Commerciale - ClassicModels
 
 ## Présentation du Projet
