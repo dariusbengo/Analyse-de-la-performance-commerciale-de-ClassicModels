@@ -73,7 +73,7 @@ Le script SQL inclus permet d'analyser la santé financière de chaque catégori
 | Fichier | Description |
 | :--- | :--- |
 | `classicmodels script.sql` | Script SQL complet : agrégations et calculs de rentabilité. |
-| `projet sql Darius Bengo.pbix` | Rapport Power BI interactif (4 pages de visualisations). |
+| `Dashboard ClassicModels.pbix` | Rapport Power BI interactif (4 pages de visualisations). |
 | `README.md` | Documentation du projet. |
 
 ---
