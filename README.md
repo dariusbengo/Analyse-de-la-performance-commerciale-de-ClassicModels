@@ -1,7 +1,7 @@
 # Analyse de Performance Commerciale - ClassicModels
 
 ## Présentation du Projet
-[https://github.com/dariusbengo/Analyse-de-la-performance-commerciale-de-ClassicModels/blob/main/img/classicmodels%20page%201.png]
+(https://github.com/dariusbengo/Analyse-de-la-performance-commerciale-de-ClassicModels/blob/main/img/classicmodels%20page%201.png)
 Ce projet consiste en une analyse de données complète de la base de données **ClassicModels** (entreprise spécialisée dans la vente de modèles réduits de véhicules). L'objectif est d'extraire des indicateurs clés (KPI) pour aider la direction à comprendre la rentabilité et la performance des ventes par région, par type de véhicule et par modèle.
 
 Le projet combine **SQL** pour l'exécution de requêtes (jointures, CTE, agrégations) et le nettoyage des données (ETL), et **Power BI** pour la création d'un tableau de bord interactif.
