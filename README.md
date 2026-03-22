@@ -1,7 +1,7 @@
 # Analyse de Performance Commerciale - ClassicModels
 
 ## Présentation du Projet
-[img/(classicmodels page 1.png)]
+![Description](img/classicmodels page 1.png)
 Ce projet consiste en une analyse de données complète de la base de données **ClassicModels** (entreprise spécialisée dans la vente de modèles réduits de véhicules). L'objectif est d'extraire des indicateurs clés (KPI) pour aider la direction à comprendre la rentabilité et la performance des ventes par région, par type de véhicule et par modèle.
 
 Le projet combine **SQL** pour l'exécution de requêtes (jointures, CTE, agrégations) et le nettoyage des données (ETL), et **Power BI** pour la création d'un tableau de bord interactif.
